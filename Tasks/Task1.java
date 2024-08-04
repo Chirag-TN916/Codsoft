@@ -9,7 +9,8 @@ public class Task1 {
         
         int minRange = 1;
         int maxRange = 100;
-        int maxAttempts = 10; // Limiting the number of attempts per round
+        int maxAttempts = 10; 
+        
         
         int totalAttempts = 0;
         int roundsWon = 0;
